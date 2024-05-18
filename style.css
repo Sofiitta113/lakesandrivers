@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+      padding: 15px;
+    color: #031336;
+   
+}
+header {
+    background-color: #5db0e0;
+    border-radius: 5px;
+}
+body {
+    background-color: #bdd9fa;
+}
+.xnjnj {
+    border-radius: 7px;
+    background-color: #122858;
+    text-align: right;
+}
+b {
+    font-size: 22px;
+}
+h2 {
+    font-size: 29px;
+}
